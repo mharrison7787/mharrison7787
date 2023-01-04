@@ -1,5 +1,6 @@
 <div align='center'>
 
+<img height="40" src="images/Github-Intro.gif">
 <img height="40" src="images/ampharos.gif">
 
 <p><em>My top languages and tools:</em></p>
