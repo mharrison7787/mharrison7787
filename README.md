@@ -1,4 +1,17 @@
-### Hi there 👋
+<div align='center'>
+
+<img height="40" src="images/alakazam.gif">
+
+<p><em>My top languages and tools:</em></p>
+<code><img height="32" src="images/python.svg"></code>
+<code><img height="32" src="images/javascript.svg"></code>
+<code><img height="32" src="images/java.svg"></code>
+<code><img height="32" src="images/github.svg"></code>
+
+<br />
+
+</div>
+
 <!--
 **mharrison7787/mharrison7787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
