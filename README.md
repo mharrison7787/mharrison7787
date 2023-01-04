@@ -1,10 +1,8 @@
 <div align='center'>
-
-<img height="120" src="images/Github-Intro.gif">
   
-<img width="120" src="images/Github-Intro.gif">
+<img width="300" src="images/Github-Intro.gif">
 
-<img height="40" src="images/ampharos.gif">
+<img height="300" src="images/ampharos.gif">
 
 <p><em>My top languages and tools:</em></p>
 <code><img height="32" src="images/python.svg"></code>
