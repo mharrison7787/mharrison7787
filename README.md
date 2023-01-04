@@ -1,12 +1,11 @@
 <div align='center'>
 
-<img height="40" src="images/alakazam.gif">
+<img height="40" src="images/ampharos .gif">
 
 <p><em>My top languages and tools:</em></p>
 <code><img height="32" src="images/python.svg"></code>
 <code><img height="32" src="images/javascript.svg"></code>
 <code><img height="32" src="images/java.svg"></code>
-<code><img height="32" src="images/github.svg"></code>
 
 <br />
 
