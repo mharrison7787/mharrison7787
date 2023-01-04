@@ -6,7 +6,7 @@
 <code><img height="32" src="images/python.svg"></code>
 <code><img height="32" src="images/javascript.svg"></code>
 <code><img height="32" src="images/java.svg"></code>
-<code><img height="32" src="images/React-icon.svg"></code>
+<code><img height="32" src="images/React-icon.svg.png"></code>
 
 <br />
 
