@@ -1,6 +1,8 @@
 <div align='center'>
 
 <img height="120" src="images/Github-Intro.gif">
+  
+<img width="120" src="images/Github-Intro.gif">
 
 <img height="40" src="images/ampharos.gif">
 
