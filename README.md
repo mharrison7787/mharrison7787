@@ -10,6 +10,9 @@
 <code><img height="32" src="images/java.svg"></code>
 <code><img height="32" src="images/React-icon.svg.png"></code>
 
+<p><em>Current Projects Include:</em></p>
+  <p><em>Bots to interact using discord API</em></p>
+  <p><em>React Native App for dating purposes</em></p>
 <br />
 
 </div>
