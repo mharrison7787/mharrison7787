@@ -13,7 +13,7 @@
   <p></p>
 <p><em>Current Projects Include:</em></p>
   <p><em>Bots to interact using discord API</em></p>
-  <p><em>React Native App for dating purposes</em></p>
+  <p><em>React Native App for online dating</em></p>
 <br />
 
 </div>
