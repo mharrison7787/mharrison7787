@@ -12,8 +12,8 @@
 
   <p></p>
 <p><em>Current Projects Include:</em></p>
-  <p><em>Bots to interact using discord API</em></p>
-  <p><em>React Native App for online dating</em></p>
+  <p><em>Discord Bot API (Node.JS)</em></p>
+  <p><em>Spelling Bee Game (JavaScript)</em></p>
 <br />
 
 </div>
