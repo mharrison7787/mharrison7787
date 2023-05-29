@@ -12,8 +12,9 @@
 
   <p></p>
 <p><em>Current Projects Include:</em></p>
-  <p><em>Discord Bot API (Node.JS)</em></p>
-  <p><em>Spelling Bee Game (JavaScript)</em></p>
+  <p><em>Discord Bot Making (Node.JS)</em></p>
+  <p><em>Vue Framework Learning (Vue.js)</em></p>
+  <p><em>Bloons Tower Defense AI research (Unity)</em></p>
 <br />
 
 </div>
